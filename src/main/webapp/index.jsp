@@ -15,7 +15,7 @@
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Freelancer - Start Bootstrap Theme</title>
+<title>WebAlly</title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <!-- Font Awesome icons (free version)-->
@@ -36,7 +36,7 @@
 		class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top"
 		id="mainNav">
 		<div class="container">
-			<a class="navbar-brand" href="#page-top">Weird Developer</a>
+			<a class="navbar-brand" href="#page-top">Web Ally</a>
 			<button
 				class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
 				type="button" data-bs-toggle="collapse"
@@ -68,7 +68,7 @@
 			<img class="masthead-avatar mb-5" src="assets/img/avataaars.svg"
 				alt="..." />
 			<!-- Masthead Heading-->
-			<h1 class="masthead-heading text-uppercase mb-0">Welcome To Weird Developer</h1>
+			<h1 class="masthead-heading text-uppercase mb-0">Welcome To Web Ally</h1>
 			<!-- Icon Divider-->
 			<div class="divider-custom divider-light">
 				<div class="divider-custom-line"></div>
@@ -208,17 +208,28 @@
 			<!-- About Section Content-->
 			<div class="row">
 				<div class="col-lg-4 ms-auto">
-					<p class="lead"></p>
+					<p class="lead">Learn making interactive and responsive website.
+					</p>
+					<p class="lead">Connect with me on GitHub.
+					</p>
 				</div>
 				<div class="col-lg-4 me-auto">
-					<p class="lead"></p>
+					<p class="lead">Check out the movie-website made by me using the below "Check" button.</p>
 				</div>
+				
 			</div>
+			
 			<!-- About Section Button-->
 			<div class="text-center mt-4">
 				<a class="btn btn-xl btn-outline-light"
-					href="https://startbootstrap.com/theme/freelancer/"> <i
-					class="fas fa-download me-2"></i> Free Download!
+					href="https://github.com/gavksingh"> <i
+					class="fas fa-download me-2"></i> Connect on GitHub!
+				</a>
+			</div>	
+			<div class="text-center mt-4">
+				<a class="btn btn-xl btn-outline-light"
+					href="https://gavksingh.github.io/chilflix.github.io/"> <i
+					class="fas fa-download me-2"></i> Check!
 				</a>
 			</div>
 		</div>
@@ -238,7 +249,9 @@
 				</div>
 				<div class="divider-custom-line"></div>
 			</div>
+			
 			<!-- Contact Section Form-->
+			
 			<div class="row justify-content-center">
 				<div class="col-lg-8 col-xl-7">
 					<!-- * * * * * * * * * * * * * * *-->
